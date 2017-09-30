@@ -13,10 +13,6 @@
   background-size: cover;
 }
 
-.about-me a {
-  font-style: italic;
-}
-
-.sub {
-  float: right;
+.about-me h3 {
+  color: #777;
 }
